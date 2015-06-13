@@ -1,0 +1,34 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "PGP",
+    "longName": "FirstWatchface",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/caricature.ttf",
+                "name": "FONT_CARIC_48",
+                "type": "font"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "FirstWatchface",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "14bba1ee-24f9-4111-b175-f0a2cd3a93e5",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
